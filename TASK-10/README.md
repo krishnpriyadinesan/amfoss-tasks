@@ -1,2 +1,2 @@
-This wasn't as easy I thought it would but i did try.
+This wasn't as easy I thought it would be, but i did try.
 
