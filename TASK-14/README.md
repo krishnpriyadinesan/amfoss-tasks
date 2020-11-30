@@ -1,1 +1,1 @@
-
+I never heard about Bandit before and so I did a little reading about it.By doing this task i figured out the uses of many shell commands.It was hard to digest at first but eventually i got used to the commands. 
