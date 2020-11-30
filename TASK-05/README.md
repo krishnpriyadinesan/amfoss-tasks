@@ -10,3 +10,6 @@
 | 8  |      Argentina    |   1,304,846        |      35,307	       |   1,119,366         |
 | 9  |      Columbia     |   1,191,004        |      33,829        |   1,097,576         |
 | 10 |      Italy        |   1,144,552        |      44,683        |     411,434         |
+
+
+Arranging the details into tables was simple but coding in rust i found it hard.I did research about it but i was confused so I went on to try with the other tasks. 
